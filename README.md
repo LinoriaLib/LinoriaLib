@@ -2,6 +2,6 @@
 - 👀 I’m interested in combining music vibes with coding, Lua scripting, and creative game mechanics.  
 - 🌱 I’m currently learning how to blend AI and gaming while exploring musical influences in design.  
 - 💞️ I’m looking to collaborate on rhythm-based games and innovative development tools.  
-- 📫 How to reach me: shottaflowdev@example.com or Discord: ShottaDev#1234  
+- 📫 How to reach Discord: yallserverisdead
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I once built a game level inspired by my favorite music tracks, including *Shotta Flow*!  
